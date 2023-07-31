@@ -14,9 +14,7 @@ The creation of this project was guided by a [YouTube tutorial series](link to t
 How to Run the Project
 Instructions for setting up and running the project...
 
-Future Improvements
-Ideas for enhancing the project...
 
-Acknowledgements
+Acknowledgments
 I would like to thank the creators of the YouTube tutorial series for providing the learning resources that guided the creation of this project.
 
